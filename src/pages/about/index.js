@@ -67,7 +67,7 @@ export const About = () => {
         <br></br>
         <Row className="sec_sp">
           <Col lang="5">
-            <h3 className="color_sec py-4">experience </h3>
+            <h3 className="color_sec py-4">experience</h3>
           </Col>
           <Col lg="7">
             {experience.map((data, i) => {
